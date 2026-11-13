@@ -126,3 +126,5 @@ its own count of live elements, so the sizes used for balancing stay exact.
 g++ -std=c++17 -O2 Q2.cpp -o Q2
 ./Q2 < input.txt
 ```
+
+
